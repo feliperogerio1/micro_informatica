@@ -1,0 +1,2 @@
+Projeto desenvolvido para testar os conhecimentos adquiridos ao longo da matéria de programação em microinformática no curso de análise e desenvolvimento de sistemas da Fatec Presidente Prudente.
+Este projeto consiste em um catálogo de filmes, apresentando alguns filmes e suas descrições, além de um formulário ao final da página.
